@@ -61,6 +61,9 @@ Note: you can also follow this [link](https://www.youtube.com/watch?v=IBxZiqO5IU
 1. Go to the "Hierarchy" tab, find "TestConnection" GameObject
 2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the Room2XR to Leader/Follower
 
+### For Co-located Users
+A synchronized coordinate system enables the Leader and co-located Followers to experience the virtual environment in alignment with the physical scene. To achieve this synchronization, all co-located users must initiate the application from the same physical reference point within the indoor environment
+
 ## Deployable Package
 Room2XR HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
 Room2XR HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
